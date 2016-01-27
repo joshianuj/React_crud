@@ -1,0 +1,63 @@
+.books h1 {
+    text: center;
+    margin: 0 10px;
+}
+
+.dashboard{
+    width: 100%;
+}
+.index{
+    float: left;
+    width: 50%;
+}
+.form{
+    float: right;
+    width: 50%;
+}
+.login-form{
+    margin: 30px;
+}
+
+.login-form form{
+    width: 20em;
+    border: 1px solid #000000;
+    margin: 0px auto;
+    padding: 20px;
+}
+#main{
+    padding: 20px;
+}
+.header{
+    padding: 10px;
+    background: gray;
+}
+
+.body{
+    margin-top:10px;
+    padding: 10px;
+}
+
+.pull-right{
+    float: right;
+}
+.pull-left{
+    float: left;
+}
+.container{
+    width:20em;
+
+}
+.label-container{
+    width: 20%;
+}
+.input-field-container{
+    width: 80%;
+}
+
+table, th, td {
+    border: 3px solid black;
+}
+
+body{
+    background: #f0f0f0;
+}
