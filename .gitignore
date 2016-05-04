@@ -1,7 +1,10 @@
 node_modules
 
 min
+<<<<<<< HEAD
 
 dist
 
 css
+=======
+>>>>>>> 412a5e290e29ca37ee330f1532c8a0ce4a577b84
